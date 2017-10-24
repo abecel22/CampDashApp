@@ -36,3 +36,4 @@ npm start
 #### Settings
 ![Settings view](https://user-images.githubusercontent.com/25330153/30680817-6234fee4-9e67-11e7-84e8-925a611926ff.png)
 
+Live download coming soon.
